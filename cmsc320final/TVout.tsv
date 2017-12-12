@@ -1,0 +1,76 @@
+show	tv_id	rating	seasons	episodes	popularity	genres
+Top Gear	45	7.500000	24	176	33.498923	Documentary/Comedy/
+That '70s Show	52	7.300000	8	200	27.289507	Comedy/
+Buffy the Vampire Slayer	95	8.000000	7	144	20.664035	Comedy/Drama/Sci-Fi & Fantasy/
+Weeds	186	7.100000	8	102	18.432312	Drama/Comedy/
+Star Trek: Enterprise	314	7.400000	4	98	18.592752	Action & Adventure/Drama/Sci-Fi & Fantasy/
+The Simpsons	456	7.100000	29	688	142.196713	Animation/Comedy/
+Futurama	615	8.000000	7	124	31.383034	Animation/Comedy/Drama/Sci-Fi & Fantasy/
+Star Trek: The Next Generation	655	8.200000	7	178	39.926478	Action & Adventure/Drama/Mystery/Sci-Fi & Fantasy/
+How I Met Your Mother	1100	7.400000	9	208	32.145424	Comedy/
+Mad Men	1104	8.100000	7	92	15.326254	Drama/
+Californication	1215	7.300000	7	84	24.762440	Comedy/Drama/
+Six Feet Under	1274	8.200000	5	63	15.665654	Drama/
+Breaking Bad	1396	8.200000	5	62	45.275608	Drama/
+The Sopranos	1398	8.200000	6	91	25.000394	Drama/
+Game of Thrones	1399	8.100000	8	81	70.980075	Sci-Fi & Fantasy/Drama/Action & Adventure/
+Seinfeld	1400	8.200000	9	193	27.224453	Comedy/
+The Walking Dead	1402	7.400000	8	143	224.543868	Action & Adventure/Drama/Sci-Fi & Fantasy/
+Marvel's Agents of S.H.I.E.L.D.	1403	6.700000	5	106	64.841267	Fantasy/Drama/Action/Adventure/Science Fiction/
+Chuck	1404	7.500000	5	91	15.665384	Action & Adventure/Comedy/Drama/
+Dexter	1405	7.900000	8	96	36.332540	Crime/Drama/Mystery/
+Homeland	1407	7.300000	6	72	28.492948	Drama/
+House	1408	8.100000	8	177	34.761672	Drama/Comedy/Mystery/
+Sons of Anarchy	1409	7.700000	7	127	28.211785	Crime/Drama/
+Person of Interest	1411	7.600000	5	103	26.970550	Action/Adventure/Drama/Mystery/Thriller/
+Arrow	1412	6.100000	6	132	75.757474	Action/Adventure/Crime/Drama/Mystery/Science Fiction/
+American Horror Story	1413	6.900000	7	84	52.466284	Drama/Mystery/
+Elementary	1415	6.900000	5	120	27.396723	Drama/Mystery/Crime/
+Grey's Anatomy	1416	6.100000	14	305	62.165702	Drama/
+The Big Bang Theory	1418	6.900000	11	254	220.309448	Comedy/
+Castle	1419	7.300000	8	173	35.847046	Drama/Crime/
+New Girl	1420	6.400000	7	139	24.215878	Comedy/
+Modern Family	1421	7.200000	9	198	48.947379	Comedy/
+Ray Donovan	1423	7.300000	5	60	18.806580	Drama/
+Orange Is the New Black	1424	7.400000	5	65	21.535003	Comedy/Drama/
+House of Cards	1425	8.100000	5	65	32.350274	Drama/
+Luther	1426	7.900000	4	16	11.437587	Crime/Drama/Mystery/
+CSI: Crime Scene Investigation	1431	6.500000	15	337	45.287971	Crime/Drama/Mystery/
+American Dad!	1433	6.400000	14	241	48.502258	Animation/Comedy/
+Family Guy	1434	6.600000	16	318	97.849984	Animation/Comedy/
+The Wire	1438	8.200000	5	60	20.021124	Drama/Crime/
+Boardwalk Empire	1621	7.700000	5	56	12.469265	Drama/Crime/
+Supernatural	1622	7.100000	13	276	92.005504	Drama/Mystery/Sci-Fi & Fantasy/
+Heroes	1639	6.900000	4	78	31.339845	Sci-Fi & Fantasy/Drama/
+Friends	1668	7.800000	10	236	51.479031	Comedy/
+Fringe	1705	8.000000	5	100	21.509805	Sci-Fi & Fantasy/Drama/Mystery/
+Star Trek: Voyager	1855	7.700000	7	256	26.019783	Sci-Fi & Fantasy/Drama/Action & Adventure/
+The Fresh Prince of Bel-Air	1892	7.300000	6	148	8.855756	Comedy/
+Bones	1911	6.800000	12	246	35.313560	Crime/Drama/
+Battlestar Galactica	1972	8.100000	4	74	20.646302	Action & Adventure/Drama/Sci-Fi & Fantasy/
+24	1973	7.700000	9	204	25.428048	Action & Adventure/Drama/
+Malcolm in the Middle	2004	7.400000	7	151	15.092547	Comedy/
+South Park	2190	7.800000	21	318	56.348825	Comedy/Animation/
+Prison Break	2288	7.500000	5	88	38.702506	Action & Adventure/Crime/Drama/
+Stargate Atlantis	2290	7.800000	5	100	14.303615	Action & Adventure/Drama/Sci-Fi & Fantasy/
+The Office	2316	7.900000	9	195	24.058980	Comedy/
+The IT Crowd	2490	8.100000	4	24	16.562091	Comedy/
+Two and a Half Men	2691	6.100000	12	262	40.757220	Comedy/
+It's Always Sunny in Philadelphia	2710	8.000000	12	133	25.600534	Comedy/
+Law & Order: Special Victims Unit	2734	6.100000	19	427	66.071245	Crime/Drama/
+Criminal Minds	4057	7.100000	13	291	46.002622	Crime/Drama/Mystery/
+The X-Files	4087	8.100000	11	229	32.515508	Drama/Mystery/Sci-Fi & Fantasy/
+Married... with Children	4239	7.400000	11	259	21.805467	Comedy/
+Scrubs	4556	7.700000	9	182	22.251041	Drama/Comedy/
+Arrested Development	4589	8.100000	5	68	25.168055	Comedy/
+Smallville	4604	7.000000	10	216	30.231868	Action & Adventure/Sci-Fi & Fantasy/Mystery/Drama/
+Lost	4607	7.700000	6	120	31.874971	Action & Adventure/Drama/Mystery/
+NCIS	4614	6.600000	15	395	71.640408	Action & Adventure/Crime/Drama/
+Stargate SG-1	4629	8.000000	10	222	29.349773	Action & Adventure/Sci-Fi & Fantasy/
+The Mentalist	5920	7.400000	7	151	24.093678	Mystery/Drama/
+Parks and Recreation	8592	7.600000	7	125	26.267542	Comedy/
+Archer	10283	7.900000	8	101	21.656527	Action & Adventure/Animation/Drama/Comedy/
+True Blood	10545	7.100000	7	80	25.601349	Drama/Sci-Fi & Fantasy/
+The Vampire Diaries	18165	6.900000	12	171	44.924798	Drama/Fantasy/Horror/Romance/Thriller/
+Community	18347	7.800000	6	110	30.278715	Comedy/
+Sherlock	19885	8.200000	4	12	28.195709	Crime/Drama/Mystery/
